@@ -1,0 +1,58 @@
+p {
+    color: red;
+    font-size: 10px;
+    padding: 7px;
+}
+
+
+
+a {
+    outline: none;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 20px;
+    min-width: 260px;    
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    background-color: #000000;
+    color: #ffffff !important;
+    float: center;
+    padding: 20px;
+    min-width: 260px;
+}
+
+h2 {
+    background-color: #ff0000;
+    float: center;
+    padding: 30px;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+
+body {
+    background-color: #1a7e47;
+    margin: 30px;
+    position: relative;
+    display: inline-block;
+    box-sizing: border-box;
+    min-width: 320px;
+}
+
+img {
+    align-self: center;
+    min-width: 100px;
+    max-width: 400px;
+    margin: 20px;
+}
+
+
+@font-face {
+    font-family: Source Sans Pro;
+    src: "fonts";
+}
