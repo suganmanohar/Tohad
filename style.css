@@ -6,25 +6,52 @@ body {
     text-align: center;
     align-content: stretch;
 }
-h1 {
-    font-family: "Marcellus SC";
-    color: #ffffff;
-}
-h2 {
-    font-family: "Marcellus SC";
-    color: #ffffff;
+
+
+
+
+h1{
+font-family: "Times New Roman", Times, serif;
+font-size: 4rem;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #d0aa6b;
+font-weight: normal;
+font-style: normal;
+font-variant: small-caps;
+text-transform: lowercase;
 }
 
+
+h2{
+font-family: "Times New Roman", Times, serif;
+font-size: 3rem;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #d0aa6b;
+font-weight: normal;
+font-style: normal;
+font-variant: small-caps;
+text-transform: lowercase;
+}
 
 h3 {
-    font-family: "Marcellus SC", "Garamond", serif;
-    color: #ffffff;
-    background-color: #4e5e52;
-    font-weight: bolder;
-    font-size: large;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 15px;
-    padding-left: 15px;
+font-family: "Times New Roman", Times, serif;
+font-size: 2rem;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #d0aa6b;
+font-weight: normal;
+font-style: normal;
+font-variant: small-caps;
+text-transform: lowercase;
+
+}
+
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 100px;
 
 }
