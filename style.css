@@ -1,11 +1,8 @@
 a:visited {
     color: #eebc71;
+    text-decoration: underline;
 }
-body {
-    background-color: #354439;
-    text-align: center;
-    align-content: stretch;
-}
+
 
 
 
@@ -40,7 +37,7 @@ font-family: "Times New Roman", Times, serif;
 font-size: 2rem;
 letter-spacing: 2px;
 word-spacing: 2px;
-color: #d0aa6b;
+color: #82576b;
 font-weight: normal;
 font-style: normal;
 font-variant: small-caps;
@@ -52,6 +49,9 @@ text-transform: lowercase;
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
-  padding: 100px;
+  padding: 30px;
+  background-color: #d5d3ba;
 
 }
+
+body {background-color: #3d214f;}
