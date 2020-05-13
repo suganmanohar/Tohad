@@ -10,6 +10,7 @@ font-style: normal;
 font-variant: small-caps;
 text-transform: lowercase;
 text-shadow: 2px 2px  #000000, 4px 4px #000000;
+margin-left:150px;
 }
 
 
@@ -38,6 +39,7 @@ font-style: normal;
 font-variant: small-caps;
 text-transform: lowercase;
 text-shadow: 2px 2px 0 #000000, 4px 4px 0 #000000;
+margin-left:150px;
 }
 
 h4 {
@@ -59,9 +61,7 @@ p {
     letter-spacing: 2px;
     word-spacing: 2px;
     color: #d0aa6b;
-    font-weight: normal;
-    font-style: normal;
-    
+    margin-left:100px;
     }
 
 
